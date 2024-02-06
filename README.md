@@ -4,8 +4,6 @@ In this collection, you will find various deployments representing my coding pro
 
 <br>
 
-# Projects
-
 ## 1) [Cigarette Tracker](https://saadpocalypse.github.io/Cigarette-Tracker/index.html)
 A purposeful tool designed to assist individuals in their journey to quit smoking. This application prompts users to input key information about their quit date, allowing the program to calculate and display the monetary savings accumulated since quitting. Moreover, the tracker visually illustrates the positive impact by showcasing the number of cigarettes avoided. By providing a tangible representation of progress, this tool aims to motivate and support individuals in their commitment to a smoke-free lifestyle. With a user-friendly interface and practical insights, the Cigarette Tracker serves as a valuable companion for those on the path to healthier choices, fostering awareness and celebrating the milestones achieved on their smoke-free journey.
 

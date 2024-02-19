@@ -15,7 +15,7 @@ A versatile tool that empowers users to enhance their typing skills with persona
 <br>
 
 ## 3) [CSS Gallery](https://saadpocalypse.github.io/CSS-Playground/)
-In this little project, I've had some fun exploring the creative side of web development by putting together a collection of HTML and CSS art. Over time, I've gotten proficient with CSS, which I use every now and then to make fun designs, whether its pixel art with tables or loading spinners. Everything on this website is made with pure HTML and CSS, no libraries, no JavaScript, no images and no videos. I keep updating this website as I make more stuff.
+In this little project, I've had some fun exploring the creative side of web development by putting together a collection of HTML and CSS art. Over time, I've gotten proficient with CSS, which I use every now and then to make fun designs, whether its pixel art with tables or loading spinners. Everything on this website is made with pure HTML and CSS, no libraries, no images, no videos and minimal Javascript. I keep updating this website as I make more stuff.
 
 <br>
 
